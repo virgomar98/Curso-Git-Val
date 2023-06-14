@@ -1,0 +1,239 @@
+    1  ls
+    2  git config --global user.name 'Valeria Martinez'
+    3  git config --global user.email 'virgomar98@gmail.com'
+    4  git config --global user.email 'virgomar98@gmail.com'
+    5  git config user.name
+    6  git config user.email
+    7  cd Desktop/
+    8  git remote add origin https://github.com/virgomar98/testVal.git
+    9  git remote
+   10  Show solution
+   11  show goal
+   12  ls
+   13  ls -a
+   14  ls . .
+   15  ls ..
+   16  pwd
+   17  ls
+   18  cd Documents/
+   19  pwd
+   20  cd..
+   21  cd ..
+   22  cd Documents/
+   23  cd ~
+   24  cd Documents/
+   25  mkdir Comandos
+   26  ls
+   27  cd Comandos
+   28  mkdir pasta nova
+   29  ls
+   30  mkdir "pasta nova"
+   31  ls
+   32  mkdir -p new/old
+   33  ls
+   34  ls new
+   35  rm -r nova pasta
+   36  rm -r new
+   37  ls
+   38  mv "pasta nova" pasta_nova
+   39  ls
+   40  ls pasta_nova/
+   41  ls 
+   42  cd ..
+   43  cd Comandos/
+   44  touch arquivo.txt
+   45  ls arquivo txt
+   46  ls
+   47  cp arquivo.txt pasta_nova/
+   48  ls
+   49  ls pasta_nova/
+   50  echo 'Mensagem'
+   51  echo ' Mensagem' > comando.txt
+   52  cat comando.txt
+   53  cat
+   54  cat > comando.txt
+   55  cat >> comando.txt
+   56  cat : comando.txt
+   57  cat comando.txt
+   58  cat > comando.txt
+   59  help cd
+   60  clear
+   61  historu
+   62  history
+   63  history 6
+   64  7
+   65  history 7
+   66  history > historico.txt
+   67  cat historico.txt
+   68  history 6
+   69  git config --global user.name 'Valeria Martinez'
+   70  git config --global user.email 'virgomar98@gmail.com'
+   71  git config.user name
+   72  git config user.name
+   73  cd Documents/
+   74  mkdir Curso_Git
+   75  cd Curso_Git/
+   76  git config user.name
+   77  git init
+   78  git status
+   79  echo ' #Aprendendo usar o Git' > readme.md
+   80  git status
+   81  git add readme.md
+   82  git status
+   83  git commit -m 'Commit inicial'
+   84  git status
+   85  echo '##Aula 1' >> readme.md
+   86  git status
+   87  echo 'Valeria Martinez' > participantes.txt
+   88  git status
+   89  git add.
+   90  git add .
+   91  git status
+   92  git add participates.txt
+   93  git add participantes.txt
+   94  git status
+   95  git restore --staged .
+   96  git status
+   97  git commit -am 'Alteração no readme'
+   98  git add participantes.txt
+   99  git status
+  100  git commit -m 'Adicionado participantes.txt'
+  101  history > Aula 3.txt
+  102  git status
+  103  history > Aula_3.txt
+  104  git status
+  105  git log
+  106  history Curso Git
+  107  clear
+  108  history Documents
+  109  clear
+  110  git config --global user.name 'Valeria Martinez'
+  111  git config --global user.email 'virgomar98@gmail.com'
+  112  git config user.name
+  113  cd Documentos/
+  114  cd Documents/
+  115  mkdir Curso-Git
+  116  git config user.name
+  117  cd Curso_Git/
+  118  git config user.name
+  119  git init
+  120  git status
+  121  git branch
+  122  git checkout -b feature
+  123  git branch
+  124  touch Nova_feature
+  125  git status
+  126  git add Nova_feature
+  127  git commit -m 'Adicionado Nova_feature'
+  128  git log
+  129  ls
+  130  git branch
+  131  git config --global user.name 'Valeria Martinez'
+  132  git config --glboal user.email 'virgomar98@gmail.com'
+  133  git config --global user.name 'Valeria Martinez'
+  134  git config --global user.email 'virgomar98@gmail.com'
+  135  git config user.name
+  136  cd Documents/
+  137  mkkdir Curso_Git
+  138  mkdir Cursi_Git
+  139  cd Curso_Git/
+  140  git branch
+  141  touch Nova_feuture
+  142  touch Nova_feature
+  143  git status
+  144  git add Nova_feuture
+  145  git commit -m 'Adicionando nova feuture'
+  146  git log
+  147  cd Documents/
+  148  git config user.name
+  149  mkdir Curso_Git
+  150  cd Curso_Git/
+  151  git branch
+  152  touch Nova_feature
+  153  git status
+  154  git add Nova_feature
+  155  git commit -m 'Adicionando Nova feature'
+  156  git commit -m 'Adicionando nova feature'
+  157  touch Continuando_master
+  158  git checkout master
+  159  git status
+  160  touch Continuando_master
+  161  git add Continuando_master
+  162  git commit-m 'Adicionando continuacao master'
+  163  git checkout feature
+  164  git checkout -b feature2 master
+  165  git checkout -b feature2 master
+  166  git checkout -d feature2
+  167  git checkout feature
+  168   git checkout master
+  169  git checkout -d feature2
+  170  git checkout master
+  171  git clear
+  172  clear
+  173  git checkout feature
+  174  git log --pretty=online --graph
+  175  git log --pretty=oneline --graph
+  176  git merge master
+  177  git reset --hard HEAD~
+  178  git log --pretty=oneline --graph
+  179  git rebase master
+  180  hstory > Aula_5txt
+  181  git add Aula_5.txt
+  182  history -c:clear
+  183  clear
+  184  ls
+  185  LS
+  186  ls -a
+  187  ls
+  188  history
+  189  clear
+  190  clear
+  191  cd Comandos/
+  192  cd Comandos/
+  193  ls
+  194  cd Comandos/
+  195  git config --global user.name 'Valeria M'
+  196  git config --global user.email 'virgomar98@gmail.com'
+  197  git config user.name
+  198  cd Documents/
+  199  mkdir Project_Val
+  200  cd Project_Val/
+  201  git config user.name
+  202  git init
+  203  git status
+  204  echo '#Aprendendo usar o Git' > readme.md
+  205  git status
+  206  git add readme.md
+  207  git status
+  208  git commit -m "Commit inicial'
+  209  git status
+  210  git config --global user.name 'Valeria M'
+  211  git config --global user.email 'virgomar98@gmail.com'
+  212  git config user.name
+  213  cd Documents/
+  214  mkdir Projet_Val
+  215  cd Project_Val/
+  216  git config user.name
+  217  git init
+  218  git status
+  219  git commit -m 'Commit inicial'
+  220  git status
+  221  echo '##Aula1' >> readme.md
+  222  git status
+  223  echo 'Virgomar' > friends.txt
+  224  git status
+  225  git add .
+  226  git status
+  227  git restore --staged friends.txt
+  228  git status
+  229  git add friends.txt
+  230  git status
+  231  git restore --staged .
+  232  git status
+  233  git commit -am 'Alteração no readme'
+  234  git status
+  235  git add friends.txt
+  236  git status
+  237  git commit -m 'Adicionando friends.txt'
+  238  git status
+  239  history > Aula_3toti.txt
