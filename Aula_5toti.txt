@@ -1,0 +1,38 @@
+    1  git branch
+    2  git checkout -b 'Fabi'
+    3  git branch
+    4  touch Nova_Fabi
+    5  git status
+    6  git add Nova_Fabi
+    7  git commit -m 'Adicionando nova Fabi'
+    8  git log
+    9  git checkout master
+   10  git status
+   11  git log
+   12  touch Continuando_master
+   13  git add Continuando_master
+   14  git commit -m 'Adicionando continuacao na master'
+   15  git log
+   16  git checkout fabi
+   17  git log
+   18  git checkout -b Fabi2 master
+   19  git log
+   20  git checkout -d Fabi2
+   21  git checkout Fabi2
+   22  git log
+   23  git branch -d Fabi2
+   24  git checkout master
+   25  git branch -d Fabi2
+   26  git log
+   27  git checkout Fabi2
+   28  clear
+   29  git checkout Fabi
+   30  git log --pretty=oneline --graph
+   31  git merge master
+   32  git log
+   33  git log --pretty=oneline --graph
+   34  git reset --hard HEAD~
+   35  git log --pretty=oneline --graph
+   36  git rebase master
+   37  git log --pretty=oneline --graph
+   38  history > Aula_5toti.txt
